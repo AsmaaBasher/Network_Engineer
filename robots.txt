@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asmaabasher.github.io/Network_Engineer/sitemap.xml
